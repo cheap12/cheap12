@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Himanshu!  
+🚀 Aspiring Software Engineer | Problem Solver | Tech Enthusiast  
 
-<!--
-**cheap12/cheap12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Passionate about **Full Stack Development** and **Cybersecurity**  
+- 🌱 Currently exploring: **Spring Boot**, **MongoDB**, and **DevOps tools**  
+- ⚡ Fun Fact: I enjoy solving complex bugs more than writing new code!  
 
-Here are some ideas to get you started:
+## ⚡ Skills & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu&layout=compact)  
+
+## 🤝 Connect with Me  
+- ✉️ Email: **j.himanshusastry@gmail.com**  
+- 🔗 LinkedIn: [Himanshu Sastry](https://www.linkedin.com/in/himanshu-sastry-b64913343/)  
